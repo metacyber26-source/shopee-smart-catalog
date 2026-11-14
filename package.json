@@ -9,7 +9,7 @@
     "curate": "node scripts/generate-catalog.mjs"
   },
   "dependencies": {
-    "@google/genai": "^0.1.1"
+    "@google/genai": "^0.1.2"
     "@supabase/supabase-js": "^2.45.0",
     "next": "14.2.15",
     "react": "^18",
